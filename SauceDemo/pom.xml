@@ -48,16 +48,7 @@
 	    <version>5.2.3</version>
 	</dependency>
 
-	<dependency>
-		<groupId>com</groupId>
-		<artifactId>learning</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
-	<dependency>
-		<groupId>org.ExcelrCucumber_10jyothi</groupId>
-		<artifactId>Cucumber_10jyothi</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
+	
   </dependencies>
 
   <build>
